@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rtc-try"
+    }
+  },
+  "defaultProject": "rtc-try",
+  "cli": {
+    "analytics": false
+  }
 }
